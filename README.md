@@ -137,7 +137,3 @@ Reject H0 when χ² > critical value (p < α). "Fail to reject" means *no eviden
 * Kingman is only an approximation (see §4). The chi-square P(n) test is conservative for ρ ≥ 0.9 with few customers (needs more data).
 * Single-run noise is real: use replications for tight agreement (see the test report).
 
-## 8. Documents
-* `docs/AUDIT.md` – what was wrong in the originals and how the CSV files relate.
-* `docs/FORMULAS.md` – every formula, every algorithm, and the file/method where it lives.
-* `docs/TEST_REPORT.md` – the tests, inputs, expected vs actual values, calibration experiments.
