@@ -6,6 +6,11 @@ side by side, with animated queue layout, charts and chi-square validation. It a
 replays them through the same models.
 
 *Course: Modeling & Simulation / Queueing Theory.*  Windows only (WinForms).
+<img width="1336" height="861" alt="image" src="https://github.com/user-attachments/assets/92574bf9-2a28-43a0-93ad-acbc4c821a3b" />
+
+
+
+<img width="1355" height="859" alt="image" src="https://github.com/user-attachments/assets/6ea43235-69fb-439d-bafa-6fc2b9918b43" />
 
 ---
 
